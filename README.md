@@ -31,7 +31,7 @@ By the end of this lesson, you will be able to:
 |----------|-------------|-----------|
 | [Pre-Class](./pre-class.md) | Perception, Design, Storytelling pillars; common chart mistakes | 30–45 min |
 | [Lesson Plan](./lesson.md) | Instructor guide for the 3-hour coding session | 3 hours |
-| [Post-Class](./post-class.md) | Visualisation critique, redesign challenge & self-assessment quiz | 2–3 hours |
+| [Post-Class](./assignment.md) | Visualisation critique, redesign challenge & self-assessment quiz | 2–3 hours |
 | [Reference](./reference.md) | Matplotlib & Seaborn cheat sheet; chart selection guide | As needed |
 
 ---

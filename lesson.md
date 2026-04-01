@@ -248,5 +248,5 @@ ax.set_title('Correlation Matrix')
 3. **Every chart needs a story** — title, axis labels, annotations, and a clear narrative are not decorations; they're the point.
 
 ### Next Steps
-- **Post-Class:** Complete [post-class.md](./post-class.md) — chart critique, redesign challenge, self-assessment quiz, and reflection (2–3 hours).
+- **Post-Class:** Complete [assignment.md](./assignment.md) — chart critique, redesign challenge, self-assessment quiz, and reflection (2–3 hours).
 - **Congratulations!** This is the final lesson of Module 1. You've covered the full data stack from database design to visualisation and storytelling.
