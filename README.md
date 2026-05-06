@@ -59,4 +59,3 @@ By the end of this lesson, you will be able to:
 | **Dependency** | Standalone | Depends on **Matplotlib** | Depends on **Matplotlib + Pandas** |
 | **Code Complexity** | Verbose (more lines for full setup) | Minimal (1–2 lines) | Minimal (1–2 lines for statistical plots) |
 | **Ideal Use Case** | Custom scientific visualizations, fine-tuned charts | Quick data exploration during data cleaning/analysis | Statistical reporting, EDA with insights, presentation-ready plots |
-=======
